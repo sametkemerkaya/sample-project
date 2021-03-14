@@ -1,0 +1,60 @@
+{
+    "General": {
+        "LoginMessage": "Bienvenido",
+        "LogoutMessage": "Adiós",
+        "ConsoleLogForm": "Información del formulario Console.log escrito"
+    },
+    "Menu": {
+        "Home": "Proyecto de muestra",
+        "About": "Acerca de",
+        "Contact": "Contacto y asistencia",
+        "PageNotFount": "404",
+        "Lanquage": "Idioma",
+        "Login": "Iniciar sesión",
+        "Logout": "Cerrar sesión"
+    },
+    "Home": {
+        "H1": "Especificación de proyecto de muestra",
+        "H2": "¿Qué es Lorem Ipsum?",
+        "H2Text": "Lorem Ipsum es texto ficticio utilizado en la industria de la composición tipográfica y la impresión. Lorem Ipsum ha sido el texto de relleno estándar de la industria desde el año 1500, cuando un impresor desconocido tomó una galera de tipos y la mezcló para hacer un libro de muestras tipográficas. Ha sobrevivido no solo a cinco siglos, sino también al salto a la composición tipográfica electrónica, permaneciendo esencialmente sin cambios. Se popularizó en la década de 1960 con el lanzamiento de hojas de Letraset que contenían pasajes de Lorem Ipsum y, más recientemente, con software de autoedición como Aldus PageMaker que incluía versiones de Lorem Ipsum.",
+        "H3": "¿Por qué lo usamos?",
+        "H3Text": "Es un hecho bien conocido que el contenido de una página duplicada distrae al lector. El propósito de usar Lorem Ipsum es aumentar la legibilidad al proporcionar una distribución de letras más equilibrada en comparación con la escritura \"el texto vendrá aquí, el texto vendrá aquí\". Muchos paquetes de autoedición y editores de páginas web utilizan actualmente Lorem Ipsum como su modelo de texto predeterminado. Además, cuando se realiza una búsqueda con las palabras clave 'lorem ipsum' en los motores de búsqueda, se enumeran muchos sitios que aún se encuentran en la fase de diseño. Varias versiones han evolucionado a lo largo de los años, a veces por accidente, a veces a propósito (humor inyectado y cosas por el estilo).",
+        "H4": "¿De dónde viene?",
+        "H4Text": "Contrariamente a la creencia popular, Lorem Ipsum no son simplemente palabras al azar. Sus raíces están en BC. Tiene una historia de 2000 años, que se remonta a la literatura latina clásica desde el 45 a. C. Richard McClintock, profesor de latín en Hampden-Sydney College en Virginia, buscó una de las palabras más oscuras en un pasaje de Lorem Ipsum, 'consectetur', en la literatura clásica, y encontró la fuente definitiva. Lorm Ipsum de Cicero en BC. Proviene de las secciones 1.10.32 y 1.10.33 de \"de Finibus Bonorum et Malorum\" (Límites extremos del bien y del mal) escrito en 45. Este libro es un tratado de teoría moral y fue muy popular durante el Renacimiento. La primera línea del pasaje de Lorem Ipsum, \"Lorem ipsum dolor sit amet\", proviene de una línea de la sección 1.10.32. Los textos estándar de Lorem Ipsum, que se han utilizado desde el siglo XVI, se han reproducido para los interesados. Los capítulos 1.10.32 y 1.10.33 de Cicerón fueron reproducidos de su forma original con las versiones en inglés tomadas de la traducción de H. Rackham de 1914.",
+        "H5": "¿Dónde puedo conseguirlo?",
+        "H5Text": "Hay muchas variaciones de los pasajes de Lorem Ipsum. Sin embargo, la mayoría de ellos se han cambiado agregando humor o agregando palabras al azar. Si va a utilizar un pasaje de Lorem Ipsum, debe asegurarse de que no se oculten palabras vergonzosas entre el texto. Todos los generadores de Lorem Ipsum en Internet repiten bloques de texto predeterminados. Esto convierte a este generador en el verdadero generador de Lorem Ipsum en Internet. Este generador utiliza un diccionario de más de 200 palabras latinas y sus estructuras de oraciones. Por tanto, los textos de Lorem Ipsum producidos están lejos de las repeticiones, el humor y las palabras inusuales."
+    },
+    "About": {
+        "H1": "¿Quiénes somos?"
+    },
+    "Contact": {
+        "Form": "Contacto y asistencia",
+        "H1": {
+            "Name": "Tu nombre",
+            "NameText": "Introduzca su nombre",
+            "ErrNameText": "Introduzca un nombre válido.",
+            "Email": "Correo electrónico",
+            "EmailText": "Introduzca su dirección de correo electrónico",
+            "ErrEmailText": "Introduzca un correo electrónico válido",
+            "Phone": "Tu teléfono",
+            "PhoneText": "Introduzca su número de teléfono",
+            "ErrPhoneText": "Introduzca un número de teléfono válido",
+            "ErrPassText": "Por favor introduce una contraseña válida",
+            "Country": "País",
+            "ErrCountry": "Seleccione un país",
+            "Province": "Provincia",
+            "District": "Distrito",
+            "Mesaj": "Su mensaje",
+            "MesajText": "Escribe un mensaje",
+            "ErrMesajText": "Escriba un mensaje válido",
+            "SelectText": "Seleccione ...",
+            "Button": "Enviar",
+            "Password": "Contraseña",
+            "PasswordText": "Por favor ingrese su contraseña.",
+            "Lanquage": "Seleccionar idioma"
+        }
+    },
+    "PageNotFound": {
+        "Title": "No se encontró la página que estás buscando ..."
+    }
+}

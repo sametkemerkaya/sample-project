@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+@import "../fortawesome/css/all.min.css";
+
+$xxs: 374;
+$xs: 575;
+$sm: 767;
+$md: 991;
+$lg: 1199;
+$gutter: 15px;
+$theme-color:#6542bb;
+$theme-color-hover: #8858ff;
+$text-color:#676767; 
+$title-color:#000;
+$Poppins :'Poppins', sans-serif; 
+
+@mixin max($breakpoint) {
+    @media (max-width: $breakpoint + px) {
+        @content;
+    }
+}
+
+@mixin min($breakpoint) {
+    @media (min-width: ($breakpoint + 1) + px) {
+        @content;
+    }
+}
+
+// ================ Scroll ===================== 
+::-webkit-scrollbar {
+    width: 4px;
+    font: 1em sans-serif;
+    height: 4px;
+    background-color: #f7f7f7;
+}
+
+::-webkit-scrollbar-thumb {
+    cursor: pointer;
+    background: $theme-color;
+}
+
+::selection {
+    background-color: $theme-color;
+    color: #fff;
+}
+
+-webkit-::selection {
+    background-color: $theme-color;
+    color: #fff;
+}
+
+::-moz-selection {
+    background-color: $theme-color;
+    color: #fff;
+}

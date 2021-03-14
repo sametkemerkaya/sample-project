@@ -1,0 +1,60 @@
+{
+    "General": {
+        "LoginMessage": "Welcome,",
+        "LogoutMessage": "Goodbye,",
+        "ConsoleLogForm": "Form information Console.log written."
+    },
+    "Menu": {
+        "Home": "Sample Project",
+        "About": "About",
+        "Contact": "Contact and Support",
+        "PageNotFount": "404",
+        "Lanquage": "Language",
+        "Login": "Login",
+        "Logout": "Logout"
+    },
+    "Home": {
+        "H1": "Sample Project Specification",
+        "H2": "What is Lorem Ipsum?",
+        "H2Text": "Lorem Ipsum is dummy text used in the typesetting and printing industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to create a type specimen book. Not only did it also leap into electronic typesetting, remaining essentially unchanged.It was popularized in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. ",
+        "H3": "Why Do We Use It?",
+        "H3Text": "It is a well-known fact that a duplicate page content distracts the reader. The purpose of using Lorem Ipsum is to increase readability by providing a more balanced distribution of letters compared to writing 'text will come here, text will come here'. Currently, many desktop publishing packages and web The page editor uses Lorem Ipsum as the default dummy text. Also, when searching for the keywords 'lorem ipsum' in search engines, a large number of sites that are still in the design phase are listed. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (for example with the addition of humor). . ",
+        "H4": "Where Does It Come From?",
+        "H4Text": "Contrary to popular belief, Lorem Ipsum does not consist of random words. It has a 2000-year history that goes back to classical Latin literature since 45 BC. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, is a When he examined the examples of the word 'consectetur', one of the most obscure words in the Lorem Ipsum passage, in classical literature, he reached a definite source. This book is a treatise on the theory of morality and was very popular during the Renaissance. The first line of the Lorem Ipsum passage, \"Lorem ipsum dolor sit amet\", comes from chapters 1.10.32 and 1.10.32. The standard Lorem Ipsum texts, which have been in use since the 1500s, have been reproduced for those interested. Reproduced from its original form with English versions taken from the translation of 914 H. Rackham. ",
+        "H5": "Where Can I Get It?",
+        "H5Text": "There are many variations of Lorem Ipsum passages. However, most of them have been modified by adding humor or adding random words. If you are going to use a Lorem Ipsum passage, you need to make sure that embarrassing words are not hidden between the text. All Lorem Ipsum generators on the Internet are preset. This makes it the real Lorem Ipsum generator on the Internet.This generator uses a dictionary containing more than 200 Latin words and their sentence structures. is far. "
+    },
+    "About": {
+        "H1": "Who Are We?"
+    },
+    "Contact": {
+        "H1": "Contact and Support",
+        "Form": {
+            "Name": "Your Name",
+            "NameText": "Please enter your name",
+            "ErrNameText": "Please enter a valid name.",
+            "Email": "Email",
+            "EmailText": "Please enter your email address",
+            "ErrEmailText": "Please enter a valid email",
+            "Phone": "Your Phone",
+            "PhoneText": "Please enter your phone number",
+            "ErrPhoneText": "Please enter a valid phone number",
+            "ErrPassText": "Please enter a valid password",
+            "Country": "Country",
+            "ErrCountry": "Please select a country",
+            "Province": "Province",
+            "District": "District",
+            "Mesaj": "Your Message",
+            "MesajText": "Please write a message",
+            "ErrMesajText": "Please write a valid message",
+            "SelectText": "Please select ..",
+            "Button": "Send",
+            "Password": "Password",
+            "PasswordText": "Please enter your password.",
+            "Lanquage": "Select Language"
+        }
+    },
+    "PageNotFound": {
+        "Title": "The page you are looking for was not found .."
+    }
+}
